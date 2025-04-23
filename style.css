@@ -1216,5 +1216,6 @@ footer .site-navigation ul.menu a {
     display: none !important
 }
 .widget img {
+    display: block;
     width: 100% !important;
 }
