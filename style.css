@@ -1215,3 +1215,6 @@ footer .site-navigation ul.menu a {
 .site-header.menu-dropdown-none:not(.menu-layout-dropdown) .site-navigation-toggle-holder {
     display: none !important
 }
+.widget img {
+    width: 100% !important;
+}
