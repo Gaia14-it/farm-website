@@ -1215,3 +1215,23 @@ footer .site-navigation ul.menu a {
 .site-header.menu-dropdown-none:not(.menu-layout-dropdown) .site-navigation-toggle-holder {
     display: none !important
 }
+
+.titlebox {
+    display: flex;
+    flex-flow: column nowrap;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    margin: 15px;
+}
+
+.title {
+    color: #630E0D;
+}
+
+.subtitle {
+    color: black;
+    font-size: larger;
+}
+
+.bold {
+    font-weight: bolder;
+}
